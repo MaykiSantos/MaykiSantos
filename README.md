@@ -1,6 +1,6 @@
-![anigif](https://user-images.githubusercontent.com/58126683/101841753-50c74f00-3b25-11eb-9842-ddad13436217.gif)
-### Hi there 👋
+![anigif](https://user-images.githubusercontent.com/58126683/101843778-ba495c80-3b29-11eb-84d9-1d7dfd09be77.gif)
 
+### Hi there 👋
 <!--
 **MaykiSantos/MaykiSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
