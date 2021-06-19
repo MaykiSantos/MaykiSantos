@@ -1,5 +1,4 @@
-![Untitled-2](http://www.servidorteste.meus-projetos.com:8080/faceGit3/principal)
-
+[![Anurag's GitHub stats modificado](http://serverapp.meus-projetos.com:8080/faceGit/)](https://github.com/MaykiSantos/faceGit)
 
 ### Bem Vindo, 👋
 
