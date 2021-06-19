@@ -1,4 +1,4 @@
-![Untitled-2](https://user-images.githubusercontent.com/58126683/101942765-cb957600-3bc8-11eb-8ac3-5ae6b348b6c4.gif)
+![Untitled-2](http://www.servidorteste.meus-projetos.com:8080/faceGit3/principal)
 
 
 ### Bem Vindo, 👋
