@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats modificado](http://app.meus-projetos.com:8080/faceGit/)](https://github.com/MaykiSantos/faceGit)
+[![Anurag's GitHub stats modificado](http://aplicacao.meus-projetos.com/faceGit)](https://github.com/MaykiSantos/faceGit)
 
 ### Bem Vindo, 👋
 
