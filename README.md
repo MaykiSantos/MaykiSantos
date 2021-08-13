@@ -2,7 +2,7 @@
 
 ### Bem Vindo, 👋
 
-Tenho 23 anos de idade e estudo Ciência da computação com o objetivo de me tornar um desenvolvedor. Sou fascinado pelo desenvolvimento de aplicações web, pois acredito que este é o futuro dos sistemas e admiro muito os desenvolvedores que dominam tanto front-end quanto back-end.
+Tenho 24 anos de idade e estudo Ciência da computação com o objetivo de me tornar um desenvolvedor. Sou fascinado pelo desenvolvimento de aplicações web, pois acredito que este é o futuro dos sistemas e admiro muito os desenvolvedores que dominam tanto front-end quanto back-end.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayki-santos-66861210b/)](https://www.linkedin.com/in/mayki-santos-66861210b/)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-informational?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=email:maykisantos97@outlook.com)](email:maykisantos97@outlook.com)
