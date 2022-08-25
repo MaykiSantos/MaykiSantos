@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats modificado](http://aplicacao.meus-projetos.com/faceGit)](https://github.com/MaykiSantos/faceGit)
+![svg EDITADO e ANIMADO](https://user-images.githubusercontent.com/58126683/186748782-14f0590f-4318-4275-bbd3-27940591796a.svg)
 
 ### Bem Vindo, 👋
 
